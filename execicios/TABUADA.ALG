@@ -1,12 +1,12 @@
 Algoritmo "tabuada"
 // Disciplina   : [Lógica de Programação Visualg]
 // Professor   : Jailson costa
-// Descrição   : Faz a tabuada ate x10
+// Descrição   : Faz a tabuada com o numero que você digitar
 // Autor(a)    : Jonas H.
 // Data atual  : 24/03/2025
 Var
    // Seção de Declarações das variáveis
-   numero, digite, multiplicado, contador:real
+   numero,multiplicado,contador:real
 
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
