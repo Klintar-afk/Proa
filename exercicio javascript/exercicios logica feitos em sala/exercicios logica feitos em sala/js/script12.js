@@ -1,0 +1,1 @@
+let numero01 parseInt
